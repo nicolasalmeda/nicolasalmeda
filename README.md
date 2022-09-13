@@ -59,7 +59,7 @@ Javascript | HTML | CSS | React <br>
 <p>
     <a href="https://nicoalmeda96@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
-      emanueljuri@gmail.com
+      nicoalmeda96@gmail.com
     </a>    
     <br>
     <a href="https://www.linkedin.com/in/nicolas-almeda/">
