@@ -1,5 +1,9 @@
 # **Hola, Soy [Nicolas Lagoria](https://www.linkedin.com/in/nicolas-almeda/)**
 
+Actualmente estoy cursando la carrera Tecnicatura en Programación en la Utn-Frt.<br>
+Estoy muy emocionado por dar mis primeros pasos y obtener experiencia en el mundo IT.<br>
+Si bien puedo tener dificultades al principio me destaco por mi vocación e insistencia por aprender y mejorar lo que hago.<br>
+Enstusiasmado por el desarrolo web tanto front-end como back-end aunque estoy más inclinado al front 🤭 porque tambien me gusta el diseño, lo cual me gustaria especializarme.<br>
 <!--
 **nicolasalmeda/nicolasalmeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
